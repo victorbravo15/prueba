@@ -1,0 +1,78 @@
+Id;CategoryId;Name;Price
+1;1;Chai;18
+2;1;Chang;19
+3;2;Aniseed Syrup;10
+4;2;Chef Anton's Cajun Seasoning;22
+5;2;Chef Anton's Gumbo Mix;21,35
+6;2;Grandma's Boysenberry Spread;25
+7;7;Uncle Bob's Organic Dried Pears;30
+8;2;Northwoods Cranberry Sauce;40
+9;6;Mishi Kobe Niku;97
+10;8;Ikura;31
+11;4;Queso Cabrales;21
+12;4;Queso Manchego La Pastora;38
+13;8;Konbu;6
+14;7;Tofu;23,25
+15;2;Genen Shouyu;15,5
+16;3;Pavlova;17,45
+17;6;Alice Mutton;39
+18;8;Carnarvon Tigers;62,5
+19;3;Teatime Chocolate Biscuits;9,2
+20;3;Sir Rodney's Marmalade;81
+21;3;Sir Rodney's Scones;10
+22;5;Gustaf's Knäckebröd;21
+23;5;Tunnbröd;9
+24;1;Guaraná Fantástica;4,5
+25;3;NuNuCa Nuß-Nougat-Creme;14
+26;3;Gumbär Gummibärchen;31,23
+27;3;Schoggi Schokolade;43,9
+28;7;Rössle Sauerkraut;45,6
+29;6;Thüringer Rostbratwurst;123,79
+30;8;Nord-Ost Matjeshering;25,89
+31;4;Gorgonzola Telino;12,5
+32;4;Mascarpone Fabioli;32
+33;4;Geitost;2,5
+34;1;Sasquatch Ale;14
+35;1;Steeleye Stout;18
+36;8;Inlagd Sill;19
+37;8;Gravad lax;26
+38;1;Côte de Blaye;263,5
+39;1;Chartreuse verte;18
+40;8;Boston Crab Meat;18,4
+41;8;Jack's New England Clam Chowder;9,65
+42;5;Singaporean Hokkien Fried Mee;14
+43;1;Ipoh Coffee;46
+44;2;Gula Malacca;19,45
+45;8;Rogede sild;9,5
+46;8;Spegesild;12
+47;3;Zaanse koeken;9,5
+48;3;Chocolade;12,75
+49;3;Maxilaku;20
+50;3;Valkoinen suklaa;16,25
+51;7;Manjimup Dried Apples;53
+52;5;Filo Mix;7
+53;6;Perth Pasties;32,8
+54;6;Tourtière;7,45
+55;6;Pâté chinois;24
+56;5;Gnocchi di nonna Alice;38
+57;5;Ravioli Angelo;19,5
+58;8;Escargots de Bourgogne;13,25
+59;4;Raclette Courdavault;55
+60;4;Camembert Pierrot;34
+61;2;Sirop d'érable;28,5
+62;3;Tarte au sucre;49,3
+63;2;Vegie-spread;43,9
+64;5;Wimmers gute Semmelknödel;33,25
+65;2;Louisiana Fiery Hot Pepper Sauce;21,05
+66;2;Louisiana Hot Spiced Okra;17
+67;1;Laughing Lumberjack Lager;14
+68;3;Scottish Longbreads;12,5
+69;4;Gudbrandsdalsost;36
+70;1;Outback Lager;15
+71;4;Flotemysost;21,5
+72;4;Mozzarella di Giovanni;34,8
+73;8;Röd Kaviar;15
+74;7;Longlife Tofu;10
+75;1;Rhönbräu Klosterbier;7,75
+76;1;Lakkalikööri;18
+77;2;Original Frankfurter grüne Soße;13

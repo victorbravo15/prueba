@@ -1,0 +1,16 @@
+C:\Projects\Catalog\bin\Debug\net6.0\Catalog.exe
+C:\Projects\Catalog\bin\Debug\net6.0\Catalog.deps.json
+C:\Projects\Catalog\bin\Debug\net6.0\Catalog.runtimeconfig.json
+C:\Projects\Catalog\bin\Debug\net6.0\Catalog.dll
+C:\Projects\Catalog\bin\Debug\net6.0\Catalog.pdb
+C:\Projects\Catalog\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+C:\Projects\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+C:\Projects\Catalog\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Projects\Catalog\obj\Debug\net6.0\Catalog.dll
+C:\Projects\Catalog\obj\Debug\net6.0\refint\Catalog.dll
+C:\Projects\Catalog\obj\Debug\net6.0\Catalog.pdb
+C:\Projects\Catalog\obj\Debug\net6.0\Catalog.genruntimeconfig.cache
+C:\Projects\Catalog\obj\Debug\net6.0\ref\Catalog.dll
+C:\Projects\Catalog\bin\Debug\net6.0\Files\Categories.csv
+C:\Projects\Catalog\bin\Debug\net6.0\Files\Products.csv
