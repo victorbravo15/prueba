@@ -1,0 +1,14 @@
+﻿@model List<Item>
+
+@foreach (var item in Model)
+{
+    <li>
+        <span>@item.Name</span>
+        @if (item.Children != null && item.Children.Any())
+        {
+            <ul>
+                @await Html.PartialAsync("_RecursiveItems", item.Children)
+            </ul>
+        }
+    </li>
+}
