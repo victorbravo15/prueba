@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Item>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            @item.Name
+            @if (item.Children != null && item.Children.Any())
+            {
+                <ul>
+                    @await Html.PartialAsync("~/Views/Shared/_RecursiveItems.cshtml", item.Children)
+                </ul>
+            }
+        </li>
+    }
+</ul>
